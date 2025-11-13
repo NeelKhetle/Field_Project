@@ -100,6 +100,4 @@ MIT License - see LICENSE file for details
 ## Contact
 
 For questions or support, please contact:
-- Email: info@abhijeetranefoundation.org
-- Website: [Your Website URL]
-\`\`\`
+- Website: https://v0-youth-foundation-website.vercel.app/
